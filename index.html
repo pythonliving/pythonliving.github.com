@@ -1,0 +1,22 @@
+---
+layout: main
+title: betterlivingthroughpython
+---
+
+{% for post in site.posts %}
+{% if post.hidden or post.showonfront == false %}
+{% else %}
+
+<div class="post">
+	<h2><a href="{{ post.url }}">{{post.title}}</a></h2>
+		<div class="date">
+			{{ post.date | date: "%B %d, %Y" }}
+		</div>
+		<div class="postcontent"> 
+		  {{ post.content }}
+		</div>
+		<div id="shader"></div>
+</div>
+{% endif %}
+
+{% endfor %}
