@@ -1,4 +1,5 @@
 ---
+layout: post
 title: More Curvy News!
 excerpt: "Curvy has been pretty hot on the docket lately.  We've had several reviews posted and wanted to share them with you..."
 ---
