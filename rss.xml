@@ -5,10 +5,9 @@ title: rss/atom feed
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
   <title>better living through python</title>
-  <link>http://blog.flaminglunchbox.net</link>
+  <link>http://betterlivingthroughpython.flaminglunchbox.net</link>
   <description>
-    Updates on the unnamed text editor as well as other
-    FlamingLunchbox projects.
+      An adventure in programming and recovery.
   </description>
 
   <lastBuildDate> {{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }} </lastBuildDate>
@@ -18,9 +17,9 @@ title: rss/atom feed
  
   <item>
     <title>{{ post.title }}</title>
-    <link>http://blog.flaminglunchbox.net{{ post.url }}</link>
+    <link>http://betterlivingthroughpython.flaminglunchbox.net{{ post.url }}</link>
     <description>{{ post.excerpt }}</description>
-    <guid>http://blog.flaminglunchbox.net{{ post.id }}</guid>
+    <guid>http://betterlivingthroughpython.flaminglunchbox.net{{ post.id }}</guid>
     <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
   </item>
 
@@ -28,3 +27,5 @@ title: rss/atom feed
  
 </channel>
 </rss>
+
+
