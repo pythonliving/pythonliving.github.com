@@ -1,72 +1,299 @@
-<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
-<head>
-  <title>FlamingLunchbox | {{ page.title }}</title>
-  <!--<link href='http://fonts.googleapis.com/css?family=Sorts+Mill+Goudy' rel='stylesheet' type='text/css'>-->
-  <link href='http://fonts.googleapis.com/css?family=Alice' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="/static/aurulentsans.css" type="text/css" charset="utf-8" />
+  <head>
+    <title>betterlivingthroughpython</title>
+    <style>
+    body {  
+      background-position: left top, bottom left;
+        background-image: url('/static/images/shader background.png'), url('/static/images/shaderbackgroundbottom.png');
+      background-color: #1c328c;
+      margin: 0ex;
+      padding: 0ex;
+      font-family: "Trebuchet MS", sans-serif;
+      color: white;
+      background-repeat: repeat-x, repeat-x;
+    }
 
-  <link rel="stylesheet" type="text/css" href="/static/blog.css" />
-  
-  <script type="text/javascript">
+    a {
+      text-decoration: none;
+      color: white;
+    }
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-19355613-6']);
-  _gaq.push(['_trackPageview']);
+    a:hover {
+      text-decoration: none;
+      border-bottom: 2px dashed white;
+      color: white;
+    }
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+    a:visited {
+    }
 
-</script>
-</head>
-<body>
+    img {
+      margin: 0ex;
+    }
 
-<!-- temporarily return false here until dropdown stuff is done -->
-<div id="feeds" class="feeds" onmouseover="return false; expandfeeds()" onmouseout="return false; collapsefeeds()">
-</div>
+    #maincontent {
+      width: 130ex;
+      margin: 0ex auto;
+    }
 
-<div class="header">
-  <a href="/" style="text-decoration: none; color: white;"><h1>FlamingLunchbox</h1> - Adventures in Independent Development</a>
-</div>
+    #leftcolumn {
+      width: 90ex;
+      float: left;
 
-<div class="content">
+    }
+    
+    #rightcolumn {
+      width: 40ex;
+      float: right;
+      text-align: center;
+      margin: 11.5ex auto 0ex auto;     
 
-<div class="post">
-  <h1 class="posttitle">{{page.title}}</h1> 
-  <div class="postcontent">
-    {{content}}
+    }
 
-    <div id="disqus_thread"></div>
-    <script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'flaminglunchboxblog'; // required: replace example with your forum shortname
-        var disqus_developer = 0;
-        var disqus_identifier = '{{page.id}}';
+    .rightcolumntitle p {
+      margin: 0ex 0ex 0ex .5ex;
+      font-weight: bolder;
+      font-size: 11pt;
 
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
+    }
+
+    .rightcolumn p {
+      margin: .5ex 0ex 0ex .5ex;
+      font-size: 10pt;
+    }
+
+    .rightcolumntitle {
+      width: 243px;
+      color: white;
+      text-align: left;
+      margin-top: 2ex;
+    }
+
+    .rightcolumn {
+      width: 243px;
+      color: white;
+      text-align: left;
+      margin-bottom: 1ex;
+
+    }   
+
+    #content {
+      width: 80ex;
+      margin: 0ex auto;
+      padding-right: 3ex;
+      padding-left: 3ex;
+      padding-top: .5ex;
+      }
+    
+    #shader {
+      border-bottom: 2px dashed white;
+      border-top: 2px dashed white;       
+      height: 2ex;
+      }
+
+    #rightshader {
+      border-bottom: 2px dashed white;
+      border-top: 2px dashed white;       
+      height: .75ex;
+      margin: .5ex 0ex 1ex 0ex;
+      width: 243px;
+      }
+    
+    #topcontent {
+      width: 80ex;
+      margin: 3ex auto 0ex auto;
+      padding: 3ex;
+      }
+        
+    h1 {
+      display: inline;
+      margin: 0ex;
+      font-size: 220%;
+      padding-right: 1ex;
+
+    }
+
+    h2 {
+      margin: 0ex 0ex .75ex 0ex;
+      text-align: left;
+      padding-top: 8ex;
+      padding-bottom: 5px;
+      color: white;
+      font-weight: bolder;
+      font-size: 20pt;
+    }
+
+    .blog{
+      margin: 0ex;
+      padding: 2ex;
+     
+    }
+
+    .date {
+      margin: 0ex 2ex 0ex 0ex;
+      text-align: right;
+      padding-right: 25px;
+      color: white;
+      font-weight: bolder;
+      font-size: 10pt;
+    } 
+
+    .toplinks {
+      text-align: right;
+      padding: 7px 7px;
+      border-top: 2px dashed white;     
+      border-bottom: 2px dashed white;      
+    }
+
+    #socialmedia {
+
+    }
+
+    .toplinks a {
+      padding: 7px 7px;
+
+    }
+
+    .toplinks a:hover { 
+      background-color: #1c328c;
+
+    
+    }
+    .comments {
+      margin: 0ex 2ex 0ex 0ex;
+      text-align: left;
+      color: white;
+      font-weight: bolder;
+      font-size: 12pt;
+      padding: 0ex 2ex 2ex 2ex;   
+    }
+
+    #footer {
+      margin: 0ex auto;
+      padding: 1ex;
+      text-align: center;
+      font-size: 85%;
+      }  
+
+
+    </style>
+  </head> 
+  <body>
+    <div id="maincontent">
+      <div id="leftcolumn">
+        <div id="tiptopcontent"></div>
+        <div id="topcontent">
+        <h1>better living through python</h1>
+        <p style="font: 10pt; margin: 0ex; padding: .5ex 0ex 0ex 4ex;">An adventure in programming and recovery.</p>
+        <img src="/static/images/buttonstitch.png" style="float: right; margin: -10ex -2.5ex 0ex 1ex;" />
+      </div>
+        <div id="content">
+          <div class="toplinks" style="margin-right: .5ex;">
+            <a href="http://pythonliving.github.com/" style="background-color: #1c328c;">blog</a>       
+            <a href="http://pythonliving.github.com/aboutme">about me</a>
+            <a href="http://pythonliving.github.com/resume">resume</a>     
+            <a href="http://pythonliving.github.com/portfolio">portfolio</a>        
+          </div>
+        
+        <div class="blog">
+          <div class="post">
+            <h2><a href="{{ page.url }}">{{page.title}}</a></h2>
+              <div class="date">
+                {{ page.date | date: "%B %d, %Y" }}
+              </div>
+              <div class="postcontent"> 
+                    {{content}} 
+              </div>
+              <div id="shader"></div>
+          </div>
+
+            <div id="disqus_thread"></div>
+              <script type="text/javascript">
+                  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                  var disqus_shortname = 'pythonliving'; // required: replace example with your forum shortname
+                  var disqus_developer = 0;
+                  var disqus_identifier = '{{page.id}}';
+
+                  /* * * DON'T EDIT BELOW THIS LINE * * */
+                  (function() {
+                      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                      dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                  })();
+              </script>
 
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-  </div>
-  <div class="postmetadata">
-    {{ page.date | date: "%B %d, %Y" }}
-  </div>
 
-</div>
-
-</div>
-
-<div id="footer" class="footer">
-Copyright 2010-2011 FlamingLunchbox
-</div>
-</body>
+        </div>
+          </div>
+      </div>
+      <div id="rightcolumn">
+      <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js">
+      </script>
+      <script>
+      new TWTR.Widget({
+        version: 2,
+        type: 'profile',
+        rpp: 4,
+        interval: 30000,
+        width: 250,
+          height: 300,
+        theme: {
+          shell: {
+          background: '#001d54',
+          color: '#ffffff'
+        },
+        tweets: {
+          background: '#1c328c',
+          color: '#ffffff',
+          links: '#a8e010'
+        }
+      },
+      features: {
+        scrollbar: false,
+        loop: false,
+        live: false,
+        behavior: 'all'
+      }
+     }).render().setUser('pythonliving').start();
+    </script>
+    <div class="rightcolumntitle">
+        <p>Links</p>
+      </div>
+      <div id="rightshader">
+      </div>
+      <div class="rightcolumn">
+        <p><a href="http://www.flaminglunchbox.net/">FlamingLunchbox</a></p>
+        <p><a href="http://www.kickstarter.com/projects/1241383920/open-source-programmers-text-editor-using-canvas-a?ref=live">Betwixt</a></p>
+        <p><a href="http://www.flaminglunchbox.net/curvy">Curvy in HTML5</a></p>
+        <p><a href="http://cribbage.offti.me/">Offti.me Cribbage</a></p>
+        <p><a href="https://play.google.com/store/apps/details?id=net.flaminglunchbox.contour&feature=more_from_developer">Retro Contours</a></p>
+        <p><a href="http://www.flaminglunchbox.net/towerpower">Science Fiction Tower Power</a></p>
+        <p><a href="https://chrome.google.com/webstore/detail/facdcohpkilnbckjlgfagnecclgpaajf?utm_campaign=en&utm_source=en-ha-na-us-bk-webstr&utm_medium=ha">CSP Schedule Converter</a></p>
+      </div>
+    <div class="rightcolumntitle">
+    <p>Blog Content</p>
+    </div>
+      <div id="rightshader">
+      </div>
+    <div class="rightcolumn">
+    <p>Programming</p>
+    <p>MIT OCW Intro to Computer Science</p>
+    <p>Science Fiction Tower Power</p>
+    <p>CSP Schedule Converter</p>
+    <p>Recovery</p>   
+    <p>2011</p>
+    <p>2012</p>
+    </div>
+     </div>
+     <hr style="clear: both; border: none;" />
+       </div>
+       <div id="footer">
+      <p>This site and all materials are &copy; <img src="http://dl.dropbox.com/u/21971644/Blog%20Images/New%20Blog/final32.png" style="margin-bottom: -10px;"> 2004-2012 FlamingLunchbox unless otherwise noted.</p>
+    </div>
+  </body>
 </html>
+    
+
