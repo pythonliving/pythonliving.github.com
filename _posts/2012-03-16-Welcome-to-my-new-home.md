@@ -12,6 +12,6 @@ Please let me know if you find any broken links or errors that come up, and I'll
 
 Unfortunately I don't have auto-posting to twitter or facebook anymore, because that set up was through my [posterous](https://posterous.com/) account. However now I can implement javascript additions whenever I feel like it. That was one of the major drawbacks to posterous, it didn't allow you to add in your own javascript. Because of that you couldn't even add in the simply twitter widget that twitter provides you. Besides wanting to learn how to create my own blog site, not being able to post my twitter feed to my blog was a major drawback.  
 
-I'm still not amazing at graphics or creating an amazing web design, but that wasn’t wholly the point. I wanted something that was functional, slick and simple, and provided all the needed information when necessary. I wanted it to represent me. I'm fairly into crochet, buttons and creating my own clothes when I can, so I combined other things I love with my drive to learn programming.  
+I'm still not amazing at graphics or creating an amazing web design, but that wasn't wholly the point. I wanted something that was functional, slick and simple, and provided all the needed information when necessary. I wanted it to represent me. I'm fairly into crochet, buttons and creating my own clothes when I can, so I combined other things I love with my drive to learn programming.  
 
 See you next week!
