@@ -180,30 +180,6 @@
     </style>
   </head> 
   <body>
-  <div class="np-post">
-    <div class="np-post-nav">
-      <div class="np-post-stuff">
-        <div class="np-up-arrow">&#x25B2;</div>
-        <div class="np-post-date">
-    <p><a href="{{page.url}}">{{page.date  | date: "%Y-%m-%d" }}</a></p>
-    <p><a href="{{page.url}}">{{page.date  | date: "%H:%m:%S" }}</a></p>
-    <p><a href="{{page.url}}#disqus_thread">View Comments</a></p>
-    <BR />
-    <BR />
-    {% if page.previous %}
-    <p>Previous:</p>
-    <p><A HREF='{{ page.previous.url }}'>{{ page.previous.title }}</A></p>
-    <BR />
-    <BR />
-    {% endif %}
-    {% if page.next %}
-    <p>Next:</p>
-    <p><A HREF='{{ page.next.url }}'>{{ page.next.title }}</A></p>
-    {% endif %}
-        </div>
-      </div>
-    </div>
-    </div>
     <div id="maincontent">
       <div id="leftcolumn">
         <div id="tiptopcontent"></div>
