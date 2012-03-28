@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Welcome to my new home!!
-tags: 2012,
+tags: 
+ - 2012
 ---
 
 

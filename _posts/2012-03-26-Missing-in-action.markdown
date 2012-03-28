@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Missing in action
-tags: 2012, Recovery, 
-
+tags: 
+ - 2012
+ - Recovery
 ---
 
 It seems I am still fighting panic attacks and depression.  This morning I awoke at 9am ready to start the day, but decided to hit the snooze button for 30 minutes.  I later woke up at noon.  At that point I proceeded to hang out in bed for a while, dreading the day, and finally got out to eat and watch some TV.  After a couple of episodes of DS9 I decided to take a bath.  That's when my panic attack started to set it.  The heat overwhelmed me for a bit, so I only stayed in the bath for about 10 minutes.  Then I got out, put on some clothes and decided to go do some errands.  

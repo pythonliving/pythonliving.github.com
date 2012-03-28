@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Life altering experiences
-tags: 2012, Recovery, Programming,  
+tags: 
+ - 2012
+ - Recovery
+ - Programming  
 ---
 
 Over the past two days I've been going back over my old blog entries briefly during my efforts to port them all from posterous over to this site. It's been a much lengthier process than I thought at first. I could have figured out a way to use a script to do the whole thing for me. This particular option became starkly apparent after porting over the first month of data. However, I realized that porting it manually was allowing me to briefly look over my past year of blog entries and better grasp how things have come along.

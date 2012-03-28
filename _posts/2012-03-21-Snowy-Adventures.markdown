@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Snowy Adventures
-tags: 2012, Recovery, Programming,  
+tags: 
+ - 2012 
+ - Recovery
+ - Programming  
 ---
 
 It's snowing.  It's been snowing for over a day now.  It seems rather fitting as over a year ago it snowed on almost the same day here in the valley.  It feels odd to see the thick flakes drift down.  The valley doesn't normally get such heavy snow fall.  
