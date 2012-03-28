@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Slow Recovery
-tags: 2012, Recovery, 
+tags: 
+ - 2012
+ - Recovery
 ---
 
 I did awaken early this morning, as I hoped yesterday, however this morning I had a reason and not simple initiative as I had hoped.  I had a dentist appointment.  Things went well enough as I now have whiter teeth and no horrifying life imprints were left on the people who cleaned them.  
