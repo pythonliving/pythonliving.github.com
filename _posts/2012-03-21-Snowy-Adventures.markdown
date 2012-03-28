@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Life altering experiences
+title: Snowy Adventures
 tags: 2012, Recovery, Programming,  
 ---
 
