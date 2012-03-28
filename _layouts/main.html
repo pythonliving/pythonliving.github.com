@@ -274,9 +274,9 @@
 		  <div id="rightshader">
 		  </div>
 		<div class="rightcolumn">
-		{% for tag in site.tags.keys %}
+		{% for tag in site.tags %}
 		<p>
-			++ {{tag}} ?? 
+			++ {{tag.keys}} ?? 
 		</p>
 		{% endfor %}
 		</div>
