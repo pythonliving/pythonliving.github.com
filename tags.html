@@ -5,7 +5,7 @@ title: betterlivingthroughpython
 
 {% for tag in site.tags %}
 
-<h2>{{tag[0]}}</h2>
+<h2><a name="{{tag[0]}}">{{tag[0]}}</a></h2>
 <ul>
 	{% for post in tag[1] %}
 		<li><a href="{{ post.url }}">{{post.title}} -- {{ post.date | date: "%B %d, %Y" }}</a></li>
