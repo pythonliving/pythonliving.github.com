@@ -202,8 +202,7 @@
 		</div>
 	</body>
 	<script type="text/javascript">
-	  $(document).ready( scrolling );
-
+	  
 	  function scrolling(){
 	  	$('#education').localScroll({target:'#main'});
 	  	$('#skills').localScroll({target:'#main'});
@@ -213,6 +212,8 @@
 	  	$('#references').localScroll({target:'#main'});
 	  	};  	
 
+	  $(document).ready( scrolling );
+	  
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-19355613-8']);
 	  _gaq.push(['_trackPageview']);
