@@ -289,18 +289,16 @@
 		  	<p><a href="https://chrome.google.com/webstore/detail/facdcohpkilnbckjlgfagnecclgpaajf?utm_campaign=en&utm_source=en-ha-na-us-bk-webstr&utm_medium=ha">CSP Schedule Converter</a></p>
 		  </div>
 		<div class="rightcolumntitle">
-		<p>Blog Content</p>
+		<p><a href="/tags">Blog Content</a></p>
 		</div>
 		  <div id="rightshader">
 		  </div>
 		<div class="rightcolumn">
-		<!--<p>Programming</p>
-		<p>MIT OCW Intro to Computer Science</p>
-		<p>Science Fiction Tower Power</p>
-		<p>CSP Schedule Converter</p>
-		<p>Recovery</p>		
-		<p>2011</p>
-		<p>2012</p>-->
+		{% for tag in site.tags %}
+		<p>
+			<a href="/tags.html#{{tag[0]}}">{{tag[0]}}</a>
+		</p>
+		{% endfor %}
 		</div>
 	   </div>
 	   <hr style="clear: both; border: none;" />
