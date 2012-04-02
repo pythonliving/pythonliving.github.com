@@ -100,12 +100,12 @@
 		<div id="content">
 			<div id="sideorg">
 			<img src="/static/images/buttonstitch.png" style="" />
-			<a href="">education</a><br />
-			<a href="">skills</a><br />
-			<a href="">work experience</a><br />
-			<a href="">activities</a><br />
-			<a href="">hobbies</a><br />
-			<a href="">references</a><br />
+			<a href="#education" onclick="localscroll('education'); return false;">education</a><br />
+			<a href="#skills" onclick="localscroll('skills'); return false;">skills</a><br />
+			<a href="#experience" onclick="localscroll('experience'); return false;">work experience</a><br />
+			<a href="#activities">activities</a><br />
+			<a href="#hobbies">hobbies</a><br />
+			<a href="#references">references</a><br />
 			</div>
 		
 			<div id="maincontent">
@@ -129,10 +129,10 @@
 	    	
 	    	<h1>Skills</h1>
 
-	    	<h3 id='generalskills'>General Skills</h3>
+	    	<a href="#skills"><h3>General Skills</h3></a>
 	    	<div class="popdown">
 	    	
-		    	<p>Experience with process and procedure development on a variety of fronts, both for medium and large businesses.  Substantial interaction with international cultures.  Knowledge of HTML, CSS, Javascript and jQuery for website editing.  Basic experience and knowledge of Python. German to English translation experience, specifically with Chemistry/Biology Batch documents.  Significant experience with Application marketing via social media.  Substaintial experience with the creation and maintenance of programming/recovery related blog.</p>    
+		    <p>Experience with process and procedure development on a variety of fronts, both for medium and large businesses.  Substantial interaction with international cultures.  Knowledge of HTML, CSS, Javascript and jQuery for website editing.  Basic experience and knowledge of Python. German to English translation experience, specifically with Chemistry/Biology Batch documents.  Significant experience with Application marketing via social media.  Substaintial experience with the creation and maintenance of programming/recovery related blog.</p>    
 		    </div>				
 		    	
 	    	<h3 id='applications'>Applications</h3>
@@ -146,7 +146,7 @@
 			<p>Fluent in English and German (High).  Some conversational ability in Norwegian and Spanish.  Other language experience upon request.</p>
 			</div>
 
-			<h1>Work Experience</h1>
+			<h1 id="#experience">Work Experience</h1>
 
 			<h3>FlamingLunchbox - 2011 to Present</h3>
 			<div class="popdown">
@@ -188,17 +188,17 @@
 			<p>Other duties include researching other online K-12 programs, answering questions via phone, email, and in person for students and some K-12 educators, and other general office work.</p>
 			</div>
 
-			<h1>Activities</h1>
+			<h1 id="#activities">Activities</h1>
 			<p>Exchange student to Germany with the American Field Service (AFS) - 1999 to 2000</p>
 			<p>Exchange student to Universitet Bergen (Norway) as undergraduate student - 2004</p>
 			<p>Volunteer for the Arc of Lane County for various events - 2005 to 2008</p>
 			<p>Great Pumpkin Run Planning Committee, Volunteer Management - 2010 to present</p> 
 			<p>Homeless Connect Event Planning Committee Member - 2010 to 2012</p> 
 
-			<h1>Hobbies</h1>
+			<h1 id="#hobbies">>Hobbies</h1>
 			<p>Indoor Soccer, Running, Hiking, Yoga, Rock Climbing, Gardening, Crochet, Sewing, Dancing, Tower Defense Games, Traveling, Camping, Fishing, and more.</p>
 
-			<h1>References</h1>
+			<h1 id="#references">References</h1>
 			<p>If you would like to request a list of references, please send me an email to the address listed above.</p>
 
 			</div>
@@ -210,6 +210,16 @@
 		</div>
 	</body>
 	<script type="text/javascript">
+	  $(document).ready( scrolling );
+
+	  function scrolling(){
+	  	$('#education').localScroll({target:'#main'});
+	  	$('#skills').localScroll({target:'#main'});
+	  	$('#experience').localScroll({target:'#main'});
+	  	$('#activities').localScroll({target:'#main'});
+	  	$('#hobbies').localScroll({target:'#main'});;
+	  	$('#references').localScroll({target:'#main'});
+	  	});  	
 
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-19355613-8']);
