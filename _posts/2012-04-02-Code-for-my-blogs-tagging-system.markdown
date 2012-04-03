@@ -12,11 +12,11 @@ In order to create my tagging system, I had to sort through all the tons of docu
 
 Using the blog setup [jekyll](https://github.com/mojombo/jekyll), I inserted the following code in the right side bar under **blog content**.  The code inserted is shown below in liquid/html:
 		
-    {% for tag in site.tags %}
+    \{% for tag in site.tags %\}
     <p>
-    	<a href="/tags.html#{{tag[0]}}">{{tag[0]}}</a>
+    	<a href="/tags.html#\{{tag[0]}\}">\{{tag[0]}\}</a>
     </p>
-    {% endfor %}
+    \{% endfor %\}
 		
 As seen on my right under **blog content**, this code provides a large list of all tags included in my blog posts.  If you click on the title **blog content**, it will take you to the tags.html page of my website.  
 
