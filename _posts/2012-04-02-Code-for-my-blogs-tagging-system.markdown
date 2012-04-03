@@ -16,7 +16,7 @@ Using the blog setup [jekyll](https://github.com/mojombo/jekyll), I inserted the
     <p>
     	<a href="/tags.html#{{"{{tag[0]"}}}}>{{"{{tag[0]""}}}}</a>
     </p>
-    {{"{% endfor "}} %}
+    {{"{% endfor"}} %}
 		
 As seen on my right under **blog content**, this code provides a large list of all tags included in my blog posts.  If you click on the title **blog content**, it will take you to the tags.html page of my website.  
 
@@ -26,14 +26,14 @@ To create the tags page, I created a new html file.  The top section of this fil
     layout: main
     title: betterlivingthroughpython
     ---
-    {% for tag in site.tags %}
-    <h2><a name="{{tag[0]}}">{{tag[0]}}</a></h2>
+    {{ "{% for tag in site.tags"}} %}
+    <h2><a name="{{"{{tag[0]"}} }}">{{"{{tag[0]"}}}}</a></h2>
     <ul>
-    	{% for post in tag[1] %}
-    		<li><a href="{{ post.url }}">{{post.title}} -- {{ post.date | date: "%B %d, %Y" }}</a></li>
-    	{% endfor %}
+    	{{ "{% for post in tag[1]"}} %}
+    		<li><a href="{{"{{ post.url "}}}}">{{ "{{post.title"}}}} -- {{"{{ post.date | date: \"%B %d, %Y\" "}}}}</a></li>
+    	{{ "{% endfor "}} %}
     </ul>
-    {% endfor %}
+    {{ "{% endfor "}} %}
 
 I use the **main** layout, so that my tags page will have the same layout imagery as the rest of the site.  The liquid section indicates that for each tag in the site's collection of tags, there should be a list of the entries with that tag(along with their titles and date posted) shown below the tag header.  Due to this structure, the same post may show up multiple times on my tags page, under multiple headers.  For each tag a post has, the post will show up in the list for those subsequent tags.
 
