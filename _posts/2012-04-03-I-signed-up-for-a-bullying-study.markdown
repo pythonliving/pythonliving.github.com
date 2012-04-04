@@ -1,6 +1,5 @@
 ---
 layout: post
-hidden: true
 title: I signed up for a bullying study
 tags: 
  - 2012
