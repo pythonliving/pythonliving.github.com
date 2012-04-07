@@ -11,9 +11,10 @@ The last function of the CSP Schedule Converter code written is a function that 
 
     var downloadDataURI = function(options) {
         options.url || (options.url = "http://download-data-uri.appspot.com/");
-        $j('<form method="post" action="'+options.url+'" style="display:none"><input type="hidden" 
-        name="filename" value="'+options.filename+'"/><input type="hidden" name="data" value="'+
-        options.data+'"/></form>').submit().remove();}
+        $j('<form method="post" action="'+options.url+'" style="display:none">
+        <input type="hidden"name="filename" value="'+options.filename+'"/>
+        <input type="hidden" name="data" value="'+options.data+'"/></form>')
+        .submit().remove();}
 
 The first line first asks whether there is an options.url location already in existence.  If there isn't one, then it uses the one shown in the second section of this line.  This is necessary, however why will not make sense until I explain the next function shown.  
 
