@@ -4,7 +4,7 @@ title: Upcoming trip
 tags: 
  - 2012
  - Recovery
- ---
+---
 
  This upcoming Wednesday I will be going on a trip around Oregon with my mother and nephew.  The hope is to see parts of Southeastern Oregon that most people never visit.  I spent a good half of Sunday planning the trip.
 
