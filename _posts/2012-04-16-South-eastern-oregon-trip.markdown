@@ -14,7 +14,9 @@ I've created a new photo album for my trip and have shared it [here via picasa](
 
 As with many family trips, things can sometimes change at the last minute.  Originally this trip was to be just my mother, nephew Alex and I, however last minute my niece Kate ending up joining us.  Kate is awesome, and so the trip continued to be much fun.  Starting out around 11am we headed south on I-5.
 
-I-5 tends to be a rather fast-paced route as it's one of the major interstates in Oregon.  We also didn't make many sidetrips this first day.  We attempted to visit the Applegate trail museum right off the highway, however it was closed until May.  Instead we checked out the local covered bridge over Grave Creek. ![Grave Creek Covered Bridge](http://dl.dropbox.com/u/21971644/Blog%20Images/Blog%20Pics%20for%20Entries/April%202012/To%20post/Gravecreek.png)  Covered bridges are kind of a big deal in Oregon.  
+I-5 tends to be a rather fast-paced route as it's one of the major interstates in Oregon.  We also didn't make many sidetrips this first day.  We attempted to visit the Applegate trail museum right off the highway, however it was closed until May.  Instead we checked out the local covered bridge over Grave Creek. 
+
+![Grave Creek Covered Bridge](http://dl.dropbox.com/u/21971644/Blog%20Images/Blog%20Pics%20for%20Entries/April%202012/To%20post/Gravecreek.png)       Covered bridges are kind of a big deal in Oregon.  
 
 We spent some time in Medford hanging around, checking out bakeries, going shopping a bit, preparing for the trip over the southern cascades we would take the next day.  We stayed at a [Quaint, cozy apartment](http://www.airbnb.com/rooms/220735) in Medford.  I really liked the place, however it was a bit small for four people and perfect for two.     
 
