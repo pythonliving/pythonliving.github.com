@@ -12,7 +12,9 @@ We were out on the road earlier today.  We grabbed coffee at the local drive thr
 
 Denio, Nevada (which on our map looked like a city), is now called simply 'Denio Junction' on Googlemaps.  Rightly so, this is no longer a town, it doesn't even have a gas station.  Luckily we bought gas in Adel, OR before crossing over into barren Northern Nevada.  There were quite a few rabbits to be seen however.    
 
-After driving another 2 hours north we arrived at the historic [Frenchglen Hotel](http://www.tripadvisor.com/Hotel_Review-g51874-d272043-Reviews-Frenchglen_Hotel-Frenchglen_Oregon.html).  Very nice people, an amazing family style dinner (although a little spendy), and lots of local trails to meander down.  Alex and I took off towards one of the small local hot springs. ![Chillin' Juniper Tree and Alex](http://dl.dropbox.com/u/21971644/Blog%20Images/Blog%20Pics%20for%20Entries/April%202012/To%20post/leaningalexfrenchglen.png)  
+After driving another 2 hours north we arrived at the historic [Frenchglen Hotel](http://www.tripadvisor.com/Hotel_Review-g51874-d272043-Reviews-Frenchglen_Hotel-Frenchglen_Oregon.html).  Very nice people, an amazing family style dinner (although a little spendy), and lots of local trails to meander down.  Alex and I took off towards one of the small local hot springs. 
+
+![Chillin' Juniper Tree and Alex](http://dl.dropbox.com/u/21971644/Blog%20Images/Blog%20Pics%20for%20Entries/April%202012/To%20post/leaningalexfrenchglen.png)  
 
 It was bird watching season for the Frenchglen Hotel, and many of the people we met were packing binoculors and bird identification guides.  The next day we checked out several of the side roads and were able to view a large variety of migrating wildlife in the local Wildlife National Refuge.  
 
