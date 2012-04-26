@@ -7,7 +7,7 @@ tags:
  - Science Fiction Tower Power
 ---
 
-This past week I've been working my game [http://www.flaminglunchbox.net/towerpower](Science Fiction Tower Power).  Most of my work has been on the code for the game.  
+This past week I've been working my game [Science Fiction Tower Power](http://www.flaminglunchbox.net/towerpower).  Most of my work has been on the code for the game.  
 
 Now that I'm finally working on it again, I've decided to redo how a person starts a game.  I choose to go with a full screen cover instead of a dropdown menu.  While I've just wasted the work I did, at least I know how to do a drop down menu now.  The main screen is far from finished, but it's definitely on it's way.
 
