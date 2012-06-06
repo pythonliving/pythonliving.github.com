@@ -9,7 +9,7 @@ tags:
 
 These past few work days I've been going through my code with a fine-tooth comb.  Robey and I were partially looking at unneeded repetitions or code run unnecessarily.  Mostly we were putting together a flow chart construction of how the functions interacted.  This was done mainly for my benefit, so that I could more easily identify where any bugs might be located.
 
-![https://dl.dropbox.com/u/21971644/Blog%20Images/Blog%20Pics%20for%20Entries/June%202012/sftpjsflowchart.jpg](Science Fiction Tower Power basic flow chart)
+![Science Fiction Tower Power basic flow chart](https://dl.dropbox.com/u/21971644/Blog%20Images/Blog%20Pics%20for%20Entries/June%202012/sftpjsflowchart.jpg)
 
 This process was incredibly helpful.  It helped me to identify several lengthy areas that could be simply cut down by creating another function.  There was also some code that I was able to simply strike out because it's become obsolete based on other updates.  
 
