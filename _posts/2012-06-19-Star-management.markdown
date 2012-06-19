@@ -35,6 +35,6 @@ Technically the stars are never specifically removed from the object, because ja
 
 So far so good.  Here is an image or what my current stars look like.
 
-![https://dl.dropbox.com/u/21971644/Blog%20Images/Blog%20Pics%20for%20Entries/June%202012/basicstars.PNG](Spaceship with stars in background)
+![Spaceships with stars in the background](https://dl.dropbox.com/u/21971644/Blog%20Images/Blog%20Pics%20for%20Entries/June%202012/basicstars.PNG)
 
           
