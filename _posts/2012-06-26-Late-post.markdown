@@ -1,0 +1,17 @@
+---
+layout: post
+title: Late Posting Goodness
+tags: 
+ - 2012
+ - Recovery
+---
+
+Today was definitely a day of tiredness.  Recently I've been seeing a physical therapist to get my hip back into the correct locations in my hip sockets.  While that's still being figured out, there are other problems that were noted in my left ankle, more stuff to get fixed.  I'm able to walk around and whatnot, but I **think** my left leg and hip is finally having to work normally again and it's *not* happy about it.
+
+Thus I get home from work and I'm rather tired with my day, simply because my left leg is so sore.
+
+Good news, however, I've come up with a cool idea to add to my game.  Nothing original, mind you, but still exciting for me.  I'm going to add a **charge bar** like in Mortal Combat, so when it's fully charged you can either hit a button and make all the ships on the screen explode, or they simply explode when you reach fully charge.
+
+On top of that, I was Carmen Sandiego this past weekend at the local Supervillian Conference (read "a friend's debaucherously fun birthday party").  Fun was had.
+
+I did not have enough mental energy to program this evening, thus a non-programming related post.  
