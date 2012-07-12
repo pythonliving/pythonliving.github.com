@@ -10,9 +10,12 @@ tags:
 No this post has nothing to do with the stock market crash.  I'm just here to finish up my fancy starness.  This function processes all the other functions I've since been explaining, and uses them to create my twinkle effect.  
 
     function twinkle(star, currenttime){
-      var intensityred = intensity(star['duration'], currenttime - star['creationtime'], star['delayred'], star['cycles'][0]); 
-      var intensitygreen = intensity(star['duration'], currenttime - star['creationtime'], star['delaygreen'], star['cycles'][1]); 
-      var intensityblue = intensity(star['duration'], currenttime - star['creationtime'], star['delayblue'], star['cycles'][2]);
+      var intensityred = intensity(star['duration'], 
+      currenttime - star['creationtime'], star['delayred'], star['cycles'][0]); 
+      var intensitygreen = intensity(star['duration'], 
+      currenttime - star['creationtime'], star['delaygreen'], star['cycles'][1]); 
+      var intensityblue = intensity(star['duration'], 
+      currenttime - star['creationtime'], star['delayblue'], star['cycles'][2]);
       var rgb = hextorgb(star['background-color']); 
       var red = Math.floor(rgb[0] * intensityred);
       var green = Math.floor(rgb[1] * intensitygreen);
