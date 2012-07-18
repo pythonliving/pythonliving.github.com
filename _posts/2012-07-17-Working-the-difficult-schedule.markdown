@@ -14,7 +14,7 @@ Working full time at one job and attempting to work additional hours for Flaming
 
 I'm not [lifehacker](http://lifehacker.com/).  I'm not all about filling up my time with every waking minute busy with friends or fun.  I need evenings to just sit and eat dinner, evenings to enjoy the sunshine.  Evenings when I feel relaxed enough to chat with Robey about the news and play the piano in the wee hours before I hit the sack.  I need days where I can waste 5 or 6 hours on a hike in the woods.  Does this make me less capable?  No, but perhaps to some I don’t sound as devoted.  
 
-Do you ever feel like the internet is trying to help you find better ways to organize your life, and more things to enjoy, when all it does is make you stressed out about the things you can’t fit in your schedule?
+Do you ever feel like the internet is trying to help you find better ways to organize your life, and more things to enjoy, when all it does is make you stressed out about the things you can't fit in your schedule?
 What is one of the best things I did to make my life happier?  I choose to be selfish and do things I want to do, things that relax and make me happy.  I choose to do those things and I don't feel *as* guilty about doing them.
 
 Doing this means that sometimes I don't see friends or family as much as I think I need to.  Sometimes the house isn't as clean.  Sometimes I'm very tired all day at work.  Sometimes I do or say stupid things.  Sometimes I stress eat.  But I forgive myself, because I trust that I am attempting to do my best by my friends, family and me.  Self-forgiveness is a requirement.  A good portion of that is trusting yourself and those you love to love you even when life is hard.              
