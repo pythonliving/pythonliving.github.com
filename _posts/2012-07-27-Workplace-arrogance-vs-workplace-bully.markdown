@@ -6,7 +6,7 @@ tags:
  - Recovery
 ---
 
-I was reading an article on arstechnica recently, titled *[Measuring the boss from hell](http://arstechnica.com/science/2012/07/measuring-the-boss-from-hell/?comments=1&post=23104152#comment-23104152)*.  It struck a chord for me, naturally, so I read the article.  I was rather intrigued to see what a tech site would have to say about workplace bullying, as I assumed that's what the article was about.  However the article is mostly about a new scale developed called WARS (Workplace Arrogance Scale).  
+I was reading an article on [arstechnica](http://arstechnica.com/) recently, titled *[Measuring the boss from hell](http://arstechnica.com/science/2012/07/measuring-the-boss-from-hell/?comments=1&post=23104152#comment-23104152)*.  It struck a chord for me, naturally, so I read the article.  I was rather intrigued to see what a tech site would have to say about workplace bullying, as I assumed that's what the article was about.  However the article is mostly about a new scale developed called WARS (Workplace Arrogance Scale).  
 
 **Arrogance**?  I was confused at first as to why they used arrogance instead of bullying when they referenced a boss from hell.  When I read the article many of the quotes it uses are blatant descriptions of workplace bullies.  Quotes such as the following, "*According to the authors, 'Cassano had penchants for yelling, cursing, bad-mouthing others, and belittling colleagues, as well as little tolerance for opposing viewpoints.' .*" Or, "*the authors note, is typically arrogant behavior: disparaging others as a way to exaggerate your own self-importance, possibly as a way of covering over personal insecurities, all wrapped up in the inability to incorporate feedback from the people you disparage.*"  
 
