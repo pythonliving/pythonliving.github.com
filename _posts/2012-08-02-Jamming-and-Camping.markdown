@@ -1,7 +1,8 @@
 ---
 
-Title: Jamming and Camping
-Tags:
+layout: post
+title: Jamming and Camping
+tags:
  - recovery
 
 ---
