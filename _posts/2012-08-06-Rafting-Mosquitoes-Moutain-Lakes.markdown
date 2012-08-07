@@ -12,12 +12,13 @@ On Saturday we split off from my mother and nephew and went south towards Redmon
 
 ![Robey looking at the sunset](/static/images/robeystaring_site.png)
 
-We weren't disappointed though.  We continued along the highway towards Hoodoo and finally turned off a couple of miles prior to the Hoodoo turnoff.  We found a snowpark that turns into Mountain Lakes during the summer.  We drove around and found a campsite just on the side of **Island Lake**.  We had no idea what it's name was at the time, but it was definitely worth the exploration it took to find it.   
+We weren't disappointed though.  We continued along the highway towards Hoodoo and finally turned off a couple of miles prior to the Hoodoo turnoff.  We found a snowpark that turns into Mountain Lakes during the summer.  We drove around and found a campsite just on the side of **Island Lake**.  We had no idea what it's name was at the time, but it was definitely worth the exploration it took to find it.
+   
 ![Rachael looking at the sunset](/static/images/rachaelstaring_site.png)
 
 
 Also, as promised, some pictures from jamming.  We picked tons of berries and thus made tons of jam.  In this final picture you'll see our half flat of boysenberries, flat of blueberries and marion berries, two half pints of raspberries from the backyard and the last of some nectarines we had gotten at a local farm stand that were starting to go.  That was a long weekend of jam makin'.    
 
-![Berries](/static/images/berries profile_site.png)
+![Berries](/static/images/berriesprofile_site.png)
 
-For more pictures just check out my Picasa folder[Rafting and Jamming](https://picasaweb.google.com/116317282302528753159/RaftingAndJamming?authuser=0&authkey=Gv1sRgCOqPtLnzpODcHA&feat=directlink).  
+For more pictures just check out my Picasa folder [Rafting and Jamming](https://picasaweb.google.com/116317282302528753159/RaftingAndJamming?authuser=0&authkey=Gv1sRgCOqPtLnzpODcHA&feat=directlink).  
