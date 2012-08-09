@@ -2,7 +2,7 @@
 layout: post
 title: Rafting, Mosquitoes and Mountain Lakes  
 tags: 
- - recovery
+ - Recovery
  - Camping
 ---
 
