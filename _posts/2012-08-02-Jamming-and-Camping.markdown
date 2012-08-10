@@ -3,7 +3,7 @@
 layout: post
 title: Jamming and Camping
 tags:
- - recovery
+ - Recovery
 
 ---
 
