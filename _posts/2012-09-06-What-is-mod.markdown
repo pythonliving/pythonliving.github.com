@@ -30,5 +30,3 @@ Because I didn't understand this simple aspect, finding the best way to determin
 Basically using mod makes it very easy to identify prime numbers, because you would simply go through each number from 1 to 100, check if each of them produces a remainder when modded by each number of 1 through 100. If it does for each, then, as far as we can tell, it's a prime number.
 
 Symbol-shock can be killer. Push through it anyways.  
-   
-
