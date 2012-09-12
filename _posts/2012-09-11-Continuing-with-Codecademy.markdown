@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Continuing with Codecademy, my thoughts at 68%  
+title: Continuing with Codecademy at 68%  
 tags: 
  - Programming
  - Codecademy
