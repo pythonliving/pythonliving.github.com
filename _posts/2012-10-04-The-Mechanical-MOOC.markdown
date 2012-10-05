@@ -16,7 +16,7 @@ The course is *'A gentle introduction to Python'*. As some of the recent emails 
 
 They'll be using the MIT OCW Intro to Computer Science course, of which I've completed about half. They'll also be using some of Codecademy. To prepare I'm hoping to get some python course work in on Codecademy before the MOOC starts up. Then I'll have sufficient experience with most of the sites they'll be using, so the entire experience should go smoothly.
 
-One thing I will have to work on...using forums and my peers to enhance my education. Mostly I just chat with friends online, I've never been a frequent participator in online forums or QA sections.
+One thing I will have to work on... using forums and my peers to enhance my education. Mostly I just chat with friends online, I've never been a frequent participator in online forums or QA sections.
 
 I will also have to work on **NOT** relying on Robey to answer my questions for me. I will be doing my utmost to simply ask questions and seek answers through my online peers. Definitely difficult, by no means impossible.
 
