@@ -6,6 +6,7 @@ tags:
  - Python
  - Codeacademy
  - 2012
+
 ---
 
 I'll be taking part in a new, coordinated, opportunity in online learning called [The mechanical MOOC](http://mechanicalmooc.org/). This is particularly interesting and important, because it's the first full on collaboration of online learning that includes P2PU (Peer to Peer University), MIT OpenCourseWare and Codecademy.
