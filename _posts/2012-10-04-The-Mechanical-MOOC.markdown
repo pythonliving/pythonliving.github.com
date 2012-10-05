@@ -4,7 +4,6 @@ title: The Mechanical MOOC
 tags: 
  - Programming
  - Python
- - MIT OCW Intro to Comp Science
  - Codeacademy
  - 2012
 ---
