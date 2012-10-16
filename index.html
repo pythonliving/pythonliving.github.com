@@ -25,16 +25,16 @@ title: betterlivingthroughpython
 <div class="pagination">
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
-    <a href="/" class="previous">Previous</a>
+    <a href="/" class="previous" style="float: left; margin-top: 1em; ">Previous</a>
     {% else %}
-    <a href="/page{{paginator.previous_page}}" class="previous">Previous</a>
+    <a href="/page{{paginator.previous_page}}" class="previous" style="float: left; margin-top: 1em; ">Previous</a>
     {% endif %}
   {% else %}
     <span class="previous">Previous</span>
   {% endif %}
   {% if paginator.next_page %}
-    <a href="/page{{paginator.next_page}}" class="next " style="text-align: left; padding: 1em; ">Next</a>
+    <a href="/page{{paginator.next_page}}" class="next " style="float: right; padding: 1em; ">Next</a>
   {% else %}
-    <span class="next " style="float: left; padding: 1em; ">Next</span>
+    <span class="next " style="float: right; margin-top: 1em; ">Next</span>
   {% endif %}
 </div>
