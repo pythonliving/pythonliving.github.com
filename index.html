@@ -30,7 +30,7 @@ title: betterlivingthroughpython
     <a href="/page{{paginator.previous_page}}" class="previous nohover" style="float: left; padding-top: .5em; ">Previous</a>
     {% endif %}
   {% else %}
-    <span class="previous">Previous</span>
+    <span class="previous nohover" style="float: left; padding-top: .5em; ">Previous</span>
   {% endif %}
   {% if paginator.next_page %}
     <a href="/page{{paginator.next_page}}" class="next nohover" style="float: right; padding-top: .5em; ">Next</a>
