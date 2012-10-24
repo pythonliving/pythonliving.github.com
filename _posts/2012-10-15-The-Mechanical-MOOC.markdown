@@ -5,7 +5,7 @@ title: The Mechanical MOOC
 tags: 
  - 2012
  - Programming
- - Python
+ - python
  - Codeacademy
 
 ---
