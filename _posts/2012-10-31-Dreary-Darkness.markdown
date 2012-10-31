@@ -6,6 +6,8 @@ tags:
  - 2012
  - Recovery
 
+---
+
 Over the past two weeks I've been slowly getting more and more closed in.  I don't want to leave the house, I don't want to do anything really.  It's been cloudy Oregon, but more so than normal.  It's been dreary, damp, warmer than it should be, and dark.
 
 I've also been really tight on money for the past two weeks, and by tight I mean my money has been almost non-existent.  It's amazing how much not having any money can affect your self-esteem.  How it can make you feel ashamed like it's your fault, when sometimes that's just the way the things go.  
