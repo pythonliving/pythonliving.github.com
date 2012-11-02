@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: Depression and Bootstrapping 
 tags: 
@@ -6,6 +7,7 @@ tags:
  - Recovery
  - Bootstrapping
  - Programming
+ 
 ---
 
 This is a very familiar topic.  One familiar to almost all who enter in the Startup or Bootstrapping world.  The excitement of building and creation met with the recognition that there is just so much to be done and how on earth are you going to do it all?  For those who just want to start a business, not a *Startup* but Bootstrapping it until they make it, depression is sometimes the name of the game.  
