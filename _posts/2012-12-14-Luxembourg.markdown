@@ -11,7 +11,7 @@ Two days ago the three of us took a day trip to Luxembourg, and hit Trier on the
 
 Our day began early as we headed out taking a train to the Frankfurt Airport so Jens could rent a car from his work (Lufthansa) around 8am.  From there Jens drove us all out to Luxembourg.  Jens was going there to meet a friend so Robey and I spent a couple of hours hanging out in the main city of Luxembourg.
 
-![Robey in Luxembourg](/static/images/robeyluxweb.jpg)  
+![Robey in Luxembourg](http://dl.dropbox.com/u/21971644/Blog%20Images/Blog%20Pics%20for%20Entries/December%202012/robeyluxweb.jpg)  
 
 As I said before, Luxembourg is surrounded by Germany, Belgium and France.  It's officially a Grand Duchy, and as you can probably surmise it might have once been much bigger.  **It was much bigger**, however France, Belgium and Germany have taken major chunks out of the *Grand Duchy* over the years.  
 
