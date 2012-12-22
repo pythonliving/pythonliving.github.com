@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Art Museums, intimidating or inspiring?
+title: An Art Museum, intimidating or inspiring?
 tags:
  - Germany
  - Recovery
