@@ -4,7 +4,7 @@ title: Leaving Deutschland
 tags:
  - Germany
  - Recovery
- - 2012
+ - 2013
 ---
 
 It's my last night in Germany, for now.  These past couple of days I've felt a little down knowing that we would be going home.  Then, at the same time, I'm excited to come home again.  I'm a bit kerflummoxed.  
