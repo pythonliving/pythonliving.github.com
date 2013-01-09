@@ -6,7 +6,7 @@ tags:
  - Recovery
  - Programming
  - Codecademy
- - 2012
+ - 2013
 ---
 
 This past year has been rather busy, as I like to keep most years.  I've written 117 blog posts for betterlivingthroughpython.  That's just under an average of 10 blog posts a month.  Knowing my blog posts tend to be about 250 words on average (with many going over and some going below), that makes a total of at least 29,250 words on my blog.  
