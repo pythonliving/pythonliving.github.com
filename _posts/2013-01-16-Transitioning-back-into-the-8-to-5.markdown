@@ -18,7 +18,7 @@ I miss the time when I could devote a good portion of my day to coding, blog ent
 
 But for now I'll keep focusing on trying to get what I can done...trying to squeeze a little bit of programming each day.  Most of all, I'll do my best to take it easy and not let all the projects and things I want to get done get to me.  I'll see what I can to to chill, even when life or work stresses me out.
 
-!(Feet up at work, learning to not take it to heart)[http://dl.dropbox.com/u/21971644/Blog%20Images/Blog%20Pics%20for%20Entries/January%202013/easinginthe8to5.jpg]
+![Feet up at work, learning to not take it to heart](http://dl.dropbox.com/u/21971644/Blog%20Images/Blog%20Pics%20for%20Entries/January%202013/easinginthe8to5.jpg)
     
 
 
