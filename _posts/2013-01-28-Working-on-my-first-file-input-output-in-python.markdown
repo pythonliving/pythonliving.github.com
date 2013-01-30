@@ -5,7 +5,7 @@ tags:
  - Programming
  - Recovery
  - python
- - 2012
+ - 2013
 ---
 
 Over the past two weeks I've been attempting to work on a small bit of python code for my day job.  My hope was to find a way to use programming to do something productive for work, thus combining my work aspirations (FlamingLunchbox) with my 9 to 5 (if at least temporarily).
