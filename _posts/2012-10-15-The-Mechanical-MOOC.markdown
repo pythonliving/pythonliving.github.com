@@ -6,7 +6,7 @@ tags:
  - 2012
  - Programming
  - python
- - Codeacademy
+ - Codecademy
 
 ---
 
