@@ -1,0 +1,178 @@
+body {  
+  	  background-position: left top, bottom left;
+  	  background-image: url('/static/images/shader background.png'), url('/static/images/shaderbackgroundbottom.png');
+		  background-color: #1c328c;
+		  margin: 0ex;
+		  padding: 0ex;
+		  font-family: "Trebuchet MS", sans-serif;
+		  color: white;
+		  background-repeat: repeat-x, repeat-x;
+		}
+
+		a {
+		  text-decoration: none;
+		  color: white;
+		}
+
+		.blog a{
+		  text-decoration: none;
+		  color: #a8e010;
+		}
+
+	    a:hover {
+	      text-decoration: none;
+	      border-bottom: 2px dashed white;
+	      color: white;
+	    }
+
+
+		a:visited {
+		}
+
+		img {
+		  margin: 0ex;
+		}
+
+		#maincontent {
+		  width: 130ex;
+		  margin: 0ex auto;
+		}
+
+		#leftcolumn {
+		  width: 90ex;
+		  float: left;
+
+		}
+		
+		#rightcolumn {
+		  width: 40ex;
+		  float: right;
+		  text-align: center;
+		  margin: 11.5ex auto 0ex auto;		  
+
+		}
+
+		.rightcolumntitle p {
+		  margin: 0ex 0ex 0ex .5ex;
+		  font-weight: bolder;
+		  font-size: 11pt;
+
+		}
+
+		.rightcolumn p {
+		  margin: .5ex 0ex 0ex .5ex;
+		  font-size: 10pt;
+		}
+
+		.rightcolumntitle {
+		  width: 243px;
+		  color: white;
+		  text-align: left;
+		  margin-top: 2ex;
+		}
+
+		.rightcolumn {
+		  width: 243px;
+		  color: white;
+		  text-align: left;
+		  margin-bottom: 1ex;
+
+		}		
+
+		#content {
+		  width: 80ex;
+		  margin: 0ex auto;
+		  padding-right: 3ex;
+		  padding-left: 3ex;
+		  padding-top: .5ex;
+		  }
+		
+		#shader {
+		  border-bottom: 2px dashed white;
+		  border-top: 2px dashed white;			  
+		  height: 2ex;
+		  }
+
+		#rightshader {
+		  border-bottom: 2px dashed white;
+		  border-top: 2px dashed white;			  
+		  height: .75ex;
+		  margin: .5ex 0ex 1ex 0ex;
+		  width: 243px;
+		  }
+		
+		#topcontent {
+		  width: 80ex;
+		  margin: 3ex auto 0ex auto;
+		  padding: 3ex;
+		  }
+				
+		h1 {
+		  display: inline;
+		  margin: 0ex;
+		  font-size: 220%;
+		  padding-right: 1ex;
+
+		}
+
+		h2 {
+		  margin: 0ex 0ex .75ex 0ex;
+		  text-align: left;
+		  padding-top: 8ex;
+		  padding-bottom: 5px;
+		  color: white;
+		  font-weight: bolder;
+		  font-size: 20pt;
+		}
+
+		.blog{
+		  margin: 0ex;
+		  padding: 2ex;
+		 
+		}
+
+		.date {
+		  margin: 0ex 2ex 0ex 0ex;
+		  text-align: right;
+		  padding-right: 25px;
+		  color: white;
+		  font-weight: bolder;
+		  font-size: 10pt;
+		} 
+
+		.toplinks {
+		  text-align: right;
+		  padding: 7px 7px;
+		  border-top: 2px dashed white;			
+		  border-bottom: 2px dashed white;		  
+		}
+
+		#socialmedia {
+
+		}
+
+		.toplinks a {
+		  padding: 7px 7px;
+
+		}
+
+		.toplinks a:hover { 
+		  background-color: #1c328c;
+		  border-bottom: none;
+		
+		}
+		.comments {
+		  margin: 0ex 2ex 0ex 0ex;
+		  text-align: left;
+		  color: white;
+		  font-weight: bolder;
+		  font-size: 12pt;
+		  padding: 0ex 2ex 2ex 2ex;		
+		}
+
+		#footer {
+		  margin: 0ex auto;
+		  padding: 1ex;
+		  text-align: center;
+		  font-size: 85%;
+		  } 
